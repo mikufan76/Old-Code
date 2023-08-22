@@ -1,2 +1,2 @@
 # Old-Code
- I want to keep all my old code in one place. This code does not represent my current ability :)
+My very old code! We all started somewhere! This does not represent my current abilities
