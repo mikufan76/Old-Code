@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: SwitchStatements, Configuration: Debug Win32 ------
+1>SwitchStatements.cpp
+1>SwitchStatements.vcxproj -> C:\Users\iD Student\source\repos\SwitchStatements\Debug\SwitchStatements.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

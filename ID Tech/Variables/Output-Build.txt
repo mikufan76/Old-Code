@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: UserStory, Configuration: Debug Win32 ------
+1>UserStory.cpp
+1>UserStory.vcxproj -> C:\Users\iD Student\Desktop\Tina D\UserStory\Debug\UserStory.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
